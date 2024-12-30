@@ -1,2 +1,2 @@
 # CodechefProblems
-Codechef problems from the [https://www.codechef.com/practice/5-star-and-above-problems](5 stars and above problem set).
+Codechef problems from the [5 stars and above problem set](https://www.codechef.com/practice/5-star-and-above-problems).
