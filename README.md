@@ -7,7 +7,7 @@ Codechef problems (mostly) from the [5 stars and above problem set](https://www.
 - [MXFACS](https://www.codechef.com/problems/MXFACS)
 
 ### Graphs
- - [ELWINTER](https://www.codechef.com/problems/ELWINTER)]
+ - [ELWINTER](https://www.codechef.com/problems/ELWINTER)
 
 ### Fenwick Trees
 - [BOMBING](https://www.codechef.com/problems/BOMBING)
