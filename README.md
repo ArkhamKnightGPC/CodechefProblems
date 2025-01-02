@@ -11,6 +11,9 @@ Codechef problems (mostly) from the [5 stars and above problem set](https://www.
 ### Fenwick Trees
 - [BOMBING](https://www.codechef.com/problems/BOMBING)
 
+### Dynamic programming
+- [LEEXAMS](https://www.codechef.com/problems/LEEXAMS)
+
 ### Two pointers/Sliding window
 - [REMSUBARR](https://www.codechef.com/problems/REMSUBARR)
 
