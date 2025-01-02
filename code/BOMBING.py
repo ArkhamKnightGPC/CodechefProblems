@@ -31,7 +31,7 @@ for i in range(len(all_idx)):
 n = len(all_idx)+1
 fenwick = [0]*(n+4)
 #consider A[i] = number of systems covering index i
-#let B[i] = A[1]+...+A[i]
+#let B[i] = A[i]-A[i-1]
 #we build fenwick tree over B
 # 1) update [l,r] +1 => B[l]+=1 and B[r+1]-=1
 # 2) update [l,r] -1 => B[l]-=1 and B[r+1]+=1
