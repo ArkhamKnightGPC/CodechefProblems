@@ -18,4 +18,4 @@ Codechef problems (mostly) from the [5 stars and above problem set](https://www.
 - [REMSUBARR](https://www.codechef.com/problems/REMSUBARR)
 
 ### Miscellaneous
-- [UCL](https://www.codechef.com/problems/UCL)
+- [UCL](https://www.codechef.com/problems/UCL), [BGME](https://www.codechef.com/problems/BGME)
