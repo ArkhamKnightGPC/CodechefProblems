@@ -3,7 +3,7 @@ Codechef problems (mostly) from the [5 stars and above problem set](https://www.
 ## Problems by category
 
 ### Number Theory
-- [MXFACS](https://www.codechef.com/problems/MXFACS)
+- [MXFACS](https://www.codechef.com/problems/MXFACS), [WITMATH](https://www.codechef.com/problems/WITMATH)
 
 ### Graphs
  - [ELWINTER](https://www.codechef.com/problems/ELWINTER)
