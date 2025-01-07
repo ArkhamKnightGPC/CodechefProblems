@@ -17,5 +17,8 @@ Codechef problems (mostly) from the [5 stars and above problem set](https://www.
 ### Two pointers/Sliding window
 - [REMSUBARR](https://www.codechef.com/problems/REMSUBARR)
 
+### Game Theory/Sprague-Grundy Theorem
+- [ASTRGAME](https://www.codechef.com/problems/ASTRGAME)
+
 ### Miscellaneous
 - [UCL](https://www.codechef.com/problems/UCL), [BGME](https://www.codechef.com/problems/BGME)
