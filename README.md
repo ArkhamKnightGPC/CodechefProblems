@@ -20,5 +20,8 @@ Codechef problems (mostly) from the [5 stars and above problem set](https://www.
 ### Game Theory/Sprague-Grundy Theorem
 - [ASTRGAME](https://www.codechef.com/problems/ASTRGAME)
 
+### Greedy
+- [GOLMINE](https://www.codechef.com/problems/GOLMINE)
+
 ### Miscellaneous
 - [UCL](https://www.codechef.com/problems/UCL), [BGME](https://www.codechef.com/problems/BGME)
