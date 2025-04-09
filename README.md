@@ -24,4 +24,4 @@ Codechef problems (mostly) from the [5 stars and above problem set](https://www.
 - [GOLMINE](https://www.codechef.com/problems/GOLMINE),[MAJIK](https://www.codechef.com/problems/MAJIK) 
 
 ### Miscellaneous
-- [UCL](https://www.codechef.com/problems/UCL), [BGME](https://www.codechef.com/problems/BGME)
+- [UCL](https://www.codechef.com/problems/UCL), [BGME](https://www.codechef.com/problems/BGME), [AGCY](https://www.codechef.com/problems/AGCY)
